@@ -1,0 +1,23 @@
+num = "9"
+print(num.zfill(4))
+
+num = "15"
+print(num.zfill(4))
+
+num = "130"
+print(num.zfill(4))
+
+num = "950"
+print(num.zfill(4))
+
+num = "1500"
+print(num.zfill(4))
+
+# Needed Output
+# 0009
+# 0015
+# 0130
+# 0950
+# 1500
+
+
